@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "509633862136",
+    "project_id": "zmap-demo-f9e6e",
+    "storage_bucket": "zmap-demo-f9e6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509633862136:android:6df1962131521b916d5e0d",
+        "android_client_info": {
+          "package_name": "com.zmapdemo.app.demo_zmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509633862136-0gjauvobi6vgs55lr392hbsvrfaa8kb5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zmapdemo.app.demo_zmap",
+            "certificate_hash": "37b86c21458e290c7126e875ce7bc14b2b647a58"
+          }
+        },
+        {
+          "client_id": "509633862136-3l6bk51jta3fokjc8bdue3fa18vh04i9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLrQTpZVKWrn_EX5tTZUtSvKiMUqAHlik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509633862136-3l6bk51jta3fokjc8bdue3fa18vh04i9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">zmap-demo</string>
+    <string name="facebook_app_id">4332787726790070</string>
+    <string name="fb_login_protocol_scheme">fb4332787726790070</string>
+
+</resources>
